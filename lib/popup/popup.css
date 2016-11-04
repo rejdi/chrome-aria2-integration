@@ -1,5 +1,5 @@
 /*popup*/
-#purgebtn, #addbtn {
+#purgebtn, #addbtn, #downloadbtn {
     margin: auto auto auto 5px;
     border: 1px solid #CCC;
     border-radius: 3px;
